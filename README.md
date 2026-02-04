@@ -97,11 +97,12 @@ demonstrating how topic modeling can be integrated with diffusion theory to supp
 
 Repository Structure
 ```text
-├── README.md          #Project overview
-├── notebooks/         # Topic modeling and analysis notebooks
+├── README.md                      # Project overview
+├── Master Thesis BISS.pdf         # Topic modeling and analysis notebooks
 ```
 
 Note: This repository contains the final thesis document. Raw patent data and full analysis code are not included.
+      The analysis was implemented in Python; methodological details are documented in the thesis.
 
 Keywords
 
